@@ -1,9 +1,10 @@
+
 [![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
 
 
 <h1 align="center">Hi 👋, I'm chamod piniaml</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chamodp1397&label=Profile%20views&color=0e75b6&style=flat" alt="chamodp1397" /> </p>
-<img align="right" alt="Coding" width="400" src="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chamodp1397" alt="chamodp1397" /></a> </p>
